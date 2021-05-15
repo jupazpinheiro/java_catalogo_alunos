@@ -18,6 +18,9 @@ O código consiste em uma aplicação inspirada no modelo CRUD para gerenciament
 ## Back end
 Pré-requisitos: Java 11
 
+![Tela de exibição](https://github.com/jupazpinheiro/java_catalogo_alunos/img/captura.PNG) 
+
+
 ```bash
 # clonar repositório
 git clone https://github.com/jupazpinheiro/java_catalogo_alunos
